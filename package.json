@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "run-script-os": "^1.0.0",
-    "semver": "^7.7.2",
+    "semver": "^7.7.2"
     
   },
   "scripts": {
