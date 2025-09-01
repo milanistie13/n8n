@@ -50,6 +50,9 @@
     "webhook": "./packages/cli/bin/n8n webhook",
     "worker": "./packages/cli/bin/n8n worker"
   },
+  "dependencies": {
+  "run-script-os": "^1.0.0"
+  },
   "devDependencies": {
     "run-script-os": "^1.0.0",
     "@biomejs/biome": "^1.9.0",
