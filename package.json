@@ -5,7 +5,7 @@
     
   },
   "scripts": {
-    "postinstall": "npm install semver && npm install",
-    "start": "run-script-os"
+    "postinstall": "npm install semver",
+  "start": "run-script-os"
   }
 }
