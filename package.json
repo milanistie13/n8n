@@ -3,7 +3,7 @@
   "version": "1.109.0",
   "private": true,
   "engines": {
-    "node": ">=22.16",
+    "node": "16.x"
     "pnpm": ">=10.2.1"
   },
   "packageManager": "pnpm@10.12.1",
@@ -51,6 +51,7 @@
     "worker": "./packages/cli/bin/n8n worker"
   },
   "devDependencies": {
+    "run-script-os": "^1.0.0",
     "@biomejs/biome": "^1.9.0",
     "@n8n/eslint-config": "workspace:*",
     "@types/jest": "^29.5.3",
